@@ -3,5 +3,7 @@ The goal of this project is philanthropic awareness in the community. There are 
 
 We used some free assets as well including:
 The low poly buildings by KARBOOSX | https://assetstore.unity.com/packages/3d/environments/urban/lowpoly-modern-city-buildings-set-64427
+
 The characters and walking animation by KEVIN IGLESIAS | https://assetstore.unity.com/packages/3d/characters/humanoids/humans/3d-character-dummy-178395 | https://assetstore.unity.com/packages/3d/animations/basic-motions-free-pack-154271
+
 Music by OWL THEORY MUSIC | https://assetstore.unity.com/packages/audio/music/rpg-music-pack-lite-edition-149931
